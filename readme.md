@@ -19,7 +19,7 @@ Now, we can think about a larger device. If we have more space, we can add a fun
 
 
 
-This means that in our html, we’ll give our elements different classes. Our classes will follow the pattern **screen size - number of columns***. For example, a class of ```.med-1``` will mean that for medium screens, the element will take up one column.
+This means that in our html, we’ll give our elements different classes. Our classes will follow the pattern **screen size - number of columns**. For example, a class of ```.med-1``` will mean that for medium screens, the element will take up one column.
 
 
 ```
