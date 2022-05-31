@@ -45,4 +45,3 @@ In our css, we’ll perform media queries that determine which classes we are us
     }
 }
 ```
-
